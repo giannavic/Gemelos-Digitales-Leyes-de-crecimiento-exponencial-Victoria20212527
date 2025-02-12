@@ -1,0 +1,31 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: MATLAB
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: 'Gianna '
+    family-names: Victoria
+    email: L20212527@tectijuana.edu.mx
+    affiliation: Tecnológico Nacional de México
+repository-code: >-
+  https://github.com/giannavic/Gemelos-Digitales-Leyes-de-crecimiento-exponencial-Victoria20212527
+abstract: |
+  Tecnológico Nacional de México
+  Instituto Tecnolófico de Tijuana
+  Ingeniería Biomédica 
+  Gemelos Digitales
+  Práctica 1: Leyes de crecimiento exponencial
+keywords:
+  - Ley de crecimiento exponencial
+  - 'Método de Heun '
+  - Nanohidrogeles
+  - Tasas de liberación de fármacos
+  - Farmacocinética
+  - Protocolo basado en modelos
+license: BSD-2-Clause
+date-released: '2025-02-10'
